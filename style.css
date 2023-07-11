@@ -213,6 +213,10 @@ footer a{
     .flowerImgBox img{
         width: 250px;
     }
+    .section3{
+        padding: 0%;
+        display: flex; justify-content: center;
+    }
     .servicess{
         flex-direction: column;
         width: 80vw;
